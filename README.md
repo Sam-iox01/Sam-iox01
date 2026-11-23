@@ -90,18 +90,7 @@ A travel listing web application inspired by Airbnb, featuring listing managemen
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sam-iox01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-iox01&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sam-iox01&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
